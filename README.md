@@ -12,3 +12,4 @@ Se enfoca en buscar diferentes soluciones a un problema eliminando las complicac
 ### PLACAS ARDUINO
  
 La placa de arduino es una base microcontroladora que ejecuta los codigos realizados a partir de otro dispositivo, la placa es conectada por un cable con puerto USB 2.0 gracias a que en la parte superior izquierda esta ubicado un conector de dicho puerto. Ademas tiene la posibilidad de conectar una micro SD por si se desea tener una conectividad satelital. 
+Al querer ejecutar el codigo en nuestra placa tenemos que tener en cuenta las restricciones de la intensidad en el voltaje que vamos a usar ... 
