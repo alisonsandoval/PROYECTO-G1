@@ -1,6 +1,6 @@
 # Probador de leds 
 ## Desarrollo del proyecto:
-# Materiales utilizados :
+### Materiales utilizados :
 + placa de arduino mega
 + protoboard
 + leds
