@@ -12,5 +12,6 @@ Mediante el programa fritzing los diseñadores hicieron el prototipo virtual del
 ## Funcionamiento del probador de leds:
 Al realizar el proyecto observamos que al conectar la placa de arduino mega teniendo en cuenta su voltaje, le es transmitido del computador a la placa y luego al protoboard para asi verificar el funcionamiento de los leds 
 
+![1](https://github.com/alisonsandoval/PROYECTO-G1/blob/master/protoboard.png)
 
 
