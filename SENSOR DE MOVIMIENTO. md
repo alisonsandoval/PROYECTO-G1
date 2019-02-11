@@ -1,11 +1,8 @@
-#SENSOR DE MOVIMIENTO 
-##DESARROLLO DEL PROYECTO 
-MATERIALES : 
+#Sensor de movimiento
+##Desarollo del proyecto
+Materiales : 
++ Potenciometro de rotación (Resistencia variable) a 150 Ohm 
 
-
-Potenciometro de rotación (Resistencia variable) a 150 Ohm (recomendado)
-Foto celdas (mínimo dos)
-Sensor ultrasónico HC-SR04 (mínimo dos)
-Papel aluminio (no más de 20 cm) y resistencias de 1000 Ohm 
-Sensor PIR para arduino
-Acelerómetro ADXL335 para Arduino
++ resistencias de 1000 Ohm 
++ Sensor PIR para arduino
++ Acelerómetro ADXL335 para Arduino
