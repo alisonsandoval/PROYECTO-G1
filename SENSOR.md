@@ -1,7 +1,11 @@
-#Sensor de movimiento
-##Desarollo del proyecto
+# Sensor de movimiento
+
+## Desarollo del proyecto
 Materiales :
 + Arduino
 + resistencias
 + Sensor PIR para arduino
++ Leds
++ 
+## desarrollo del proyecto 
 
