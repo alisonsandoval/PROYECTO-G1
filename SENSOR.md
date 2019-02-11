@@ -8,8 +8,7 @@
 + Leds
 + jumpers
 + protoboard
-
-los diseñadores siguen instrucciones de
+Mediante el programa fritzing los diseñadores hicieron el prototipo virtual del proyecto gracias a la guia del profesor,el constructor se baso en este prototipo virtual y lo desarrollo en fisico junto con la ayuda del programador.
 ## funcionamiento del proyecto 
 
 
