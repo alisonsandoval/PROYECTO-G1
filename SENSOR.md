@@ -12,3 +12,4 @@ Mediante el programa fritzing los diseñadores hicieron el prototipo virtual del
 ## funcionamiento del proyecto 
 ![1](https://github.com/alisonsandoval/PROYECTO-G1/blob/master/protoboard%202.png)
 
+![1](https://github.com/alisonsandoval/PROYECTO-G1/blob/master/esquematico2.png)
