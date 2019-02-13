@@ -2,10 +2,10 @@
 
 ## Desarrollo del proyecto :
 ### Materiales utilizados :
-+ protoboard
-+ jumpers
-+ placa arduino mega 
-+ leds 
++ Protoboard
++ Jumpers
++ Placa arduino mega 
++ Leds 
 + Sensor ultrasónico HC-SR04 
 
 Mediante el programa fritzing los diseñadores hicieron el prototipo virtual (esquemas) del proyecto gracias a la guia del profesor,el constructor se baso en este prototipo virtual y lo desarrollo en fisico el programador realizo el codigo para el posterior funcionamiento del proyecto
