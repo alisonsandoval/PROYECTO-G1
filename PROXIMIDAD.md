@@ -12,5 +12,5 @@ Mediante el programa fritzing los diseñadores hicieron el prototipo virtual (es
 
 ## Funcionamiento del sensor de proximidad :
 
-
+![1](https://github.com/alisonsandoval/PROYECTO-G1/blob/master/images/protoboard%203.png)
 
