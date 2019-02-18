@@ -15,3 +15,4 @@ Mediante el programa fritzing los diseñadores hicieron el prototipo virtual del
 El sensor detecta movimiento y enciende el led 
 ## Esquemas 
 
+![1](https://github.com/alisonsandoval/PROYECTO-G1/blob/master/images/esquematico2.png)
