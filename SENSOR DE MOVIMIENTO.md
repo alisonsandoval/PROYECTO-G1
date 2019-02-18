@@ -16,3 +16,6 @@ El sensor detecta movimiento y enciende el led
 ## Esquemas 
 
 ![1](https://github.com/alisonsandoval/PROYECTO-G1/blob/master/images/esquematico2.png)
+
+
+![1](https://github.com/alisonsandoval/PROYECTO-G1/blob/master/images/protoboard%202.png)
