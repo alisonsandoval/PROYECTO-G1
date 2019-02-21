@@ -14,3 +14,4 @@ Al realizar el proyecto observamos que al conectar la placa de arduino mega teni
 ## Esquemas :
 
 ![1](https://github.com/alisonsandoval/PROYECTO-G1/blob/master/images/esquematico.png)
+![1](https://github.com/alisonsandoval/PROYECTO-G1/blob/master/images/protoboard%202.png)
