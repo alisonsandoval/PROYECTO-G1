@@ -13,5 +13,8 @@ Mediante el programa fritzing los diseñadores hicieron el prototipo virtual del
 Al realizar el proyecto observamos que al conectar la placa de arduino mega teniendo en cuenta su voltaje, le es transmitido del computador a la placa y luego al protoboard para asi verificar el funcionamiento de los leds 
 ## Esquemas :
 
-![1](https://github.com/alisonsandoval/PROYECTO-G1/blob/master/images/esquematico.png)
 
+![1](https://github.com/alisonsandoval/PROYECTO-G1/blob/master/images/protoboard.png)
+
+
+![1](https://github.com/alisonsandoval/PROYECTO-G1/blob/master/images/esquematico.png)
