@@ -16,4 +16,4 @@ El sensor de proximidad detecta objetos o señales que se encuentran cerca del e
 ![1](https://github.com/alisonsandoval/PROYECTO-G1/blob/d2bab67c3b536746e012b4f2b83c062e0cf4b842/images/esquematico3.png)
 
 ![1](https://github.com/alisonsandoval/PROYECTO-G1/blob/master/images/protoboard%203.png)
-!(https://github.com/alisonsandoval/PROYECTO-G1/blob/master/images/52546671_1010558295795814_4730001196222251008_n.jpg)
+![1](https://github.com/alisonsandoval/PROYECTO-G1/blob/master/images/52546671_1010558295795814_4730001196222251008_n.jpg)
